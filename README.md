@@ -1,1 +1,1 @@
-# Lista-de-fun-es
+# Lista-de-funções
